@@ -1,0 +1,5 @@
+servlets\GetDataFromWeather.class
+servlets\AIInterface.class
+servlets\JsonWeatherObject.class
+servlets\MainServlet.class
+servlets\WeatherSearch.class
