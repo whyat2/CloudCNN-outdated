@@ -1,2 +1,10 @@
 This Project Contains a web application as well as a Cloud CNN.
 It was made to show basic understanding of Tensorflow, JSP, JAVA Servlets, CSS, and HTML
+Note: API's have been removed from the application before committing the code hence it won't allow for actually
+  getting information if for some reason one decides to run it
+
+Note2: this isn't recieving updates and is just here to display an older coding project
+Note3: Yes, I know the AI isn't the most efficent. A couple methods like primarily using 3x3 filters, 
+  depthwise-seperable convolution, and a few other methods needed to be used for better effiecency. 
+  More updated and effiecent AIs likely have or will show up
+  in other projects.
